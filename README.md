@@ -1,6 +1,5 @@
 # IntelliTutor
-## Problem Statement
-## Solution
+
 
 ## Setup of local environment
 1. Fork this repo
