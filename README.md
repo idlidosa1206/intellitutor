@@ -1,4 +1,4 @@
-# intellitutor
+# IntelliTutor
 ## Problem Statement
 ## Solution
 
